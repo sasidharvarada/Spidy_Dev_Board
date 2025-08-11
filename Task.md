@@ -21,7 +21,7 @@
 | 19     | 6    | PCB Design    | Export Gerber files                                  | Hardware      |  |         |
 | 20     | 6    | PCB Design    | Order PCB & components                               | Hardware      |  |         |
 | 21     | 7    | Assembly      | Solder components on PCB                             | Hardware      |  |         |
-| 22     | 7    | Assembly      | Test power circuit & USB connection                  | Hardware      |  |         |
+| 22     | 7    | Assembly      | Test power circuit(BMS) & USB connection                  | Hardware      |  |         |
 | 23     | 8    | Firmware      | Flash basic ESP-IDF “blink” program                  | Firmware      |  |         |
 | 24     | 8    | Firmware      | Test I²C communication with sensor                   | Firmware      |  |         |
 | 25     | 9    | Firmware      | Test SPI communication with a module                 | Firmware      |  |         |
